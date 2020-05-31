@@ -37,5 +37,5 @@ Lastly, this project isn't affiliated with any of these organizations, projects,
 
 ## Contributing to this list
 
-Please see [how to contribute](contributing.md)
+Please see [how to contribute](https://crisis.tools/contributing)
 

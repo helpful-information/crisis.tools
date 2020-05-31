@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Code of Conduct](https://crisis.tools/code-of-conduct). By participating in this project you agree to abide by its terms.
 
 ## Adding a resource
 There's two routes you're able to go through to add a resource. 
