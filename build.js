@@ -1,5 +1,9 @@
 const fs = require('fs');
 const path = require('path');
+const dayjs = require('dayjs')
+const localizedFormat = require('dayjs/plugin/localizedFormat')
+dayjs.extend(localizedFormat)
+
 const MarkdownIt = require('markdown-it'),
     md = new MarkdownIt();
 const { render } = require('mustache');
@@ -27,7 +31,12 @@ const renderFileAndFormat = (filePath) => {
         title: 'Important information for a crisis in one spot',
         description: 'Life is hard, and when bad things happen it can be difficult to know where to move next. This is a collection of resources that might make deciding what to do a little easier.',
         content,
+        updatedAt: dayjs().format('LLL')
     })
+}
+
+const remapFilesToPaths = (file) => {
+    return file.toLowerCase().replace('readme', '');
 }
 
 for (let key in markdownFiles) {
@@ -36,19 +45,19 @@ for (let key in markdownFiles) {
 
 
     // code-of-conduct
-    const routeName = path.basename(filePath).replace('.md', '').replace(sourceMarkdownDirectory, '');
+    const routeNameForFile = path.basename(filePath).replace('.md', '').replace(sourceMarkdownDirectory, '');
+    const nameForUrl = filePath.replace('.md', '').replace(sourceMarkdownDirectory, '');
     // code-of-conduct
 
     const output = renderFileAndFormat(filePath);
 
+    const outputDirectory = remapFilesToPaths(nameForUrl);
 
-    console.log({ routeName, filePath })
+    if (!fs.existsSync(__dirname + compileDirectory + outputDirectory)) {
+        fs.mkdirSync(__dirname + compileDirectory + outputDirectory)
+    }
 
-    // if (!fs.existsSync(__dirname + compileDirectory + outputDirectory)) {
-    //     fs.mkdirSync(__dirname + compileDirectory + outputDirectory)
-    // }
-    //
-    // fs.writeFileSync(__dirname + compileDirectory + outputDirectory + '/index.html', output)
+    fs.writeFileSync(__dirname + compileDirectory + outputDirectory + '/index.html', output)
 }
 
 console.log('Built the documentation!');

@@ -184,6 +184,11 @@ cssesc@^3.0.0:
   resolved "https://registry.yarnpkg.com/cssesc/-/cssesc-3.0.0.tgz#37741919903b868565e1c09ea747445cd18983ee"
   integrity sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==
 
+dayjs@^1.8.28:
+  version "1.8.28"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.8.28.tgz#37aa6201df483d089645cb6c8f6cef6f0c4dbc07"
+  integrity sha512-ccnYgKC0/hPSGXxj7Ju6AV/BP4HUkXC2u15mikXT5mX9YorEaoi1bEKOmAqdkJHN4EEkmAf97SpH66Try5Mbeg==
+
 defined@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/defined/-/defined-1.0.0.tgz#c98d9bcef75674188e110969151199e39b1fa693"

@@ -19,6 +19,7 @@
   },
   "homepage": "https://crisis.tools",
   "dependencies": {
+    "dayjs": "^1.8.28",
     "markdown-it": "^11.0.0",
     "mustache": "^4.0.1",
     "tailwindcss": "^1.4.6"
