@@ -13,21 +13,15 @@ const findAllFiles = (dir) => fs
         []
     );
 
+const sourceMarkdownDirectory = '/docs';
+const compileDirectory = '/public'
 
-
-const markdownFiles = findAllFiles(__dirname).filter(file => file.endsWith('.md') && !file.includes('node_modules')).map(file => file.replace(__dirname, ''));
-
-const routeMap = {
-    "/README.md": "/",
-    "/code-of-conduct.md": "/code-of-conduct",
-    "/contributing.md": "/contributing"
-};
+const markdownFiles = findAllFiles(__dirname + sourceMarkdownDirectory).filter(file => file.endsWith('.md')).map(file => file.replace(__dirname, ''));
 
 const renderFileAndFormat = (filePath) => {
     const content = md.render(fs.readFileSync(__dirname + filePath, {
         encoding: "utf-8"
     }));
-
 
     return render(fs.readFileSync(__dirname + '/templates/layout.html', { encoding: 'utf-8' }), {
         title: 'Important information for a crisis in one spot',
@@ -35,15 +29,26 @@ const renderFileAndFormat = (filePath) => {
         content,
     })
 }
-for (let filePath in routeMap) {
+
+for (let key in markdownFiles) {
+    // Could be /docs/code-of-conduct.md
+    const filePath = markdownFiles[key];
+
+
+    // code-of-conduct
+    const routeName = path.basename(filePath).replace('.md', '').replace(sourceMarkdownDirectory, '');
+    // code-of-conduct
+
     const output = renderFileAndFormat(filePath);
-    const outputDirectory = routeMap[filePath];
 
-    if (!fs.existsSync(__dirname + '/docs' + outputDirectory)) {
-        fs.mkdirSync(__dirname + '/docs' + outputDirectory)
-    }
 
-    fs.writeFileSync(__dirname + '/docs' + outputDirectory + '/index.html', output)
+    console.log({ routeName, filePath })
+
+    // if (!fs.existsSync(__dirname + compileDirectory + outputDirectory)) {
+    //     fs.mkdirSync(__dirname + compileDirectory + outputDirectory)
+    // }
+    //
+    // fs.writeFileSync(__dirname + compileDirectory + outputDirectory + '/index.html', output)
 }
 
 console.log('Built the documentation!');

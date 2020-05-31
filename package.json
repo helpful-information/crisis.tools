@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "node build.js && npx tailwindcss build build.css -o docs/build.css"
+    "build": "node build.js && NODE_ENV=production npx tailwindcss build build.css -o public/build.css"
   },
   "repository": {
     "type": "git",

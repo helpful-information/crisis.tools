@@ -29,13 +29,8 @@ The goal here is to spread _information_ that will be helpful. Not political vie
   - [What to do if a loved one dies - VeryWellHealth](https://www.verywellhealth.com/survivors-checklist-after-death-1132601)
 
 ### _Notes_
-_This isn't legal advice, this isn't guaranteed to help, and not everything here is a tool, some things are helpful articles with good information._ 
-
-This project's only goal is to help spread helpful information for those dealing with a crisis, or troubling event. To attempt to be a more central source for helping others deal with really stressful times. 
-
 Lastly, this project isn't affiliated with any of these organizations, projects, or websites. I believe (after researching) that these places have valuable information that can help others in times of need.
 
 ## Contributing to this list
-
 Please see [how to contribute](https://crisis.tools/contributing)
 

@@ -5,5 +5,5 @@ route = "crisis.tools/*"
 zone_id = "26d65ae170ecda0bf50cfdc599a56462"
 
 [site]
-bucket = "./docs"
+bucket = "./public"
 entry-point = "workers-site"
