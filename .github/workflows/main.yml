@@ -13,6 +13,11 @@ jobs:
     name: Deploy
     steps:
       - uses: actions/checkout@master
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+      - run: npm install
+      - run: npm run build
       - name: Publish
         uses: cloudflare/wrangler-action@1.1.0
         with:
