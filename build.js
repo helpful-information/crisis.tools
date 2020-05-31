@@ -31,7 +31,7 @@ const renderFileAndFormat = (filePath) => {
         title: 'Important information for a crisis in one spot',
         description: 'Life is hard, and when bad things happen it can be difficult to know where to move next. This is a collection of resources that might make deciding what to do a little easier.',
         content,
-        updatedAt: dayjs().format('LLL')
+        updatedAt: dayjs(new Date().toLocaleString("en-US", { timeZone: "America/New_York" })).format('LLL')
     })
 }
 
