@@ -1,7 +1,7 @@
 # Goal of the Project
 To help our fellow humans with getting accurate and mostly unbiased information in times of crisis. Paid services, and product or service recommendations will not be allowed, partisan news sources will not be allowed, and any source which promotes violence will not be allowed.
 
-The goal here is to spread _information_ that will be helpful. Not political views.
+The goal here is to spread _information_ that will be helpful.
 # Resources
 ### Government Resources 
   - [FEMA](https://www.fema.gov/) A government agency designed to help people before, during, and after disasters.
