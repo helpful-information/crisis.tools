@@ -3,10 +3,10 @@
 Please note that this project is released with a [Code of Conduct](https://crisis.tools/code-of-conduct). By participating in this project you agree to abide by its terms.
 
 ## Adding a resource
-There's two routes you're able to go through to add a resource. 
 
-1. For those that are famililar with [Github](https://github.com), and know how to use it, you're welcome to create a pull request on our page to add new information as long as it follows the rules in the [Code of Conduct](#code-of-conduct)
+1. For those that are famililar with [Github](https://github.com), and know how to use it, you're welcome to create a pull request on [our page](https://github.com/helpful-information/crisis.tools) to add new information as long as it follows the rules in the [Code of Conduct](#code-of-conduct)
 2. For those unfamiliar with Github, you can email the project maintainers at [helpful.information.github@gmail.com](mailto:helpful.information.github@gmail.com). 
+3. Go to [this Google Form](https://forms.gle/kwfcCUKZd23SayEw9) to submit a resource anonymously.
 
 Before _any_ content is added, it will be reviewed.
 
