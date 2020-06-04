@@ -22,6 +22,9 @@ The goal here is to spread _information_ that will be helpful.
   - [Tenant Resource Center](https://www.tenantresourcecenter.org/know_your_rights#disasters) This resource center is primarly focused on Dane country in Wisconson, but has some valuable information for tenants during disasters, and just in general.
   - [Feeding America](https://www.feedingamerica.org/find-your-local-foodbank)
   
+# Related informational sources
+  - [Black Lives Matter: Ways you can help](https://blacklivesmatters.carrd.co/)
+
 # Related resources for specific events.
   - [What to do after a house fire - Statefarm](https://www.statefarm.com/simple-insights/residence/what-to-do-after-a-house-fire)
   - [What to do after an apartment fire - TenantResourceCenter](https://www.tenantresourcecenter.org/fires)
