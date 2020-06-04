@@ -9,6 +9,8 @@ The goal here is to spread _information_ that will be helpful.
   - [Center for Disease Control and Prevention (CDC)](https://emergency.cdc.gov/) The CDC put together an "Emergency Preparedness and Response" section to help share important information during a disease related crisis. 
   
 ### Non-profit Resources  
+  - [Bail funds for Protesters](https://bailfunds.github.io/) - A collection of community resources for protestors around the United States.
+  
   - [211.org](http://www.211.org/) A hotline for assistance for Disasters, Crisis and emergencies, Essential Needs and more.
   - [United Way World-wide](https://www.unitedway.org/find-your-united-way) A multipurpose non-profit organization that can help with financial stability, education, health, and more.
   - [Suicide Prevention Hotline](https://suicidepreventionlifeline.org/talk-to-someone-now/) A lifeline for those struggling with mental health. - [1-800-273-8255](tel:1-800-273-8255)
