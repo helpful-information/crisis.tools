@@ -8,7 +8,8 @@ The goal here is to spread _information_ that will be helpful.
   - [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/find-help/national-helpline) A government agency for helping individuals and families facing mental and/or substance use disorders
   - [Center for Disease Control and Prevention (CDC)](https://emergency.cdc.gov/) The CDC put together an "Emergency Preparedness and Response" section to help share important information during a disease related crisis. 
   
-## Non-profit Resources    
+## Non-profit Resources
+  - [GI Rights Hotline](https://girightshotline.org/) A resource for Military personel. If you are being ordered to violate the Constitutional rights of US citizens then this is the website for the GI Rights Hotline. [1-877-447-4487](tel:1-877-447-4487)
   - [211.org](http://www.211.org/) A hotline for assistance for Disasters, Crisis and emergencies, Essential Needs and more.
   - [United Way World-wide](https://www.unitedway.org/find-your-united-way) A multipurpose non-profit organization that can help with financial stability, education, health, and more.
   - [Suicide Prevention Hotline](https://suicidepreventionlifeline.org/talk-to-someone-now/) A lifeline for those struggling with mental health. - [1-800-273-8255](tel:1-800-273-8255)
