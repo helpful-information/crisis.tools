@@ -7,6 +7,7 @@ The goal here is to spread _information_ that will be helpful.
   - [FEMA](https://www.fema.gov/) A government agency designed to help people before, during, and after disasters.
   - [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/find-help/national-helpline) A government agency for helping individuals and families facing mental and/or substance use disorders
   - [Center for Disease Control and Prevention (CDC)](https://emergency.cdc.gov/) The CDC put together an "Emergency Preparedness and Response" section to help share important information during a disease related crisis. 
+  - [Ready.gov](https://ready.gov) A US Government website for emergency and disaster preparedness.
   
 ## Non-profit Resources
   - [GI Rights Hotline](https://girightshotline.org/) A resource for Military personel. If you are being ordered to violate the Constitutional rights of US citizens then this is the website for the GI Rights Hotline. [1-877-447-4487](tel:1-877-447-4487)
@@ -32,6 +33,10 @@ The goal here is to spread _information_ that will be helpful.
   - [What to do after your house was broken into (robbery) - Safewise](https://www.safewise.com/home-security-faq/house-break-in/)
   - [What to do if you've been given an eviction notice - StudentLoanHero](https://studentloanhero.com/featured/eviction-process-handle-notice/)
   - [What to do if a loved one dies - VeryWellHealth](https://www.verywellhealth.com/survivors-checklist-after-death-1132601)
+  - [What to do during an active shooter situation - Ready.gov](https://www.ready.gov/public-spaces)
+  - [What to do during a natural disaster, nuclear war, terrorism, or mass outage - Ready.gov](https://www.ready.gov/be-informed)
+  - [What to do if someone has been shot by a firearm - VeryWellHealth](https://www.verywellhealth.com/how-to-treat-a-gunshot-wound-1298915)
+  - [What to do if someone has been stabbed - OnelineFirstAid](https://onlinefirstaid.com/stabbings-victim/)
   
 ## For those with the ability to donate
   - [Bail funds for Protesters](https://bailfunds.github.io/) - A collection of community resources for protestors around the United States.
@@ -43,6 +48,7 @@ The goal here is to spread _information_ that will be helpful.
   - [Campaign Zero](https://www.joincampaignzero.org/)
   - [Equal Justice Initiative](https://eji.org/)
   - [American Civil Liberties Union](https://www.aclu.org/)
+  - [Ukranian Humanitarian Aid](http://help.gov.ua) A Ukraine goverment humanitarian aid portal, to support the efforts of the Ukrainian people. Slava Ukraini.
 
 
 ### _Notes_
