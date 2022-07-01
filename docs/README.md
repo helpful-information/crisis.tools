@@ -8,6 +8,7 @@ The goal here is to spread _information_ that will be helpful.
   - [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/find-help/national-helpline) A government agency for helping individuals and families facing mental and/or substance use disorders
   - [Center for Disease Control and Prevention (CDC)](https://emergency.cdc.gov/) The CDC put together an "Emergency Preparedness and Response" section to help share important information during a disease related crisis. 
   - [Ready.gov](https://ready.gov) A US Government website for emergency and disaster preparedness.
+  - [World Health Organization](https://www.who.int/)
   
 ## Non-profit Resources
   - [GI Rights Hotline](https://girightshotline.org/) A resource for Military personel. If you are being ordered to violate the Constitutional rights of US citizens then this is the website for the GI Rights Hotline. [1-877-447-4487](tel:1-877-447-4487)
@@ -21,7 +22,7 @@ The goal here is to spread _information_ that will be helpful.
   - [The American Red Cross](https://www.redcross.org/get-help.html) An organization dedicated to helping provide disaster relief.
   - [Tenant Resource Center](https://www.tenantresourcecenter.org/know_your_rights#disasters) This resource center is primarly focused on Dane country in Wisconson, but has some valuable information for tenants during disasters, and just in general.
   - [Feeding America](https://www.feedingamerica.org/find-your-local-foodbank) A nationwide network of foodbanks.
-  - [United Help Ukraine](https://unitedhelpukraine.org/) Help provide medical aid and humanitarian relief to the brave Ukrainians defending themselves! Stand with the people of Ukraine. 🇺🇦 🇺🇦 🇺🇦
+  - [United Help Ukraine](https://unitedhelpukraine.org/) Help provide medical aid and humanitarian relief to the brave Ukrainians defending themselves! Stand with the people of Ukraine. 🇺🇦
   
 ## Related informational sources
   - [Black Lives Matter: Ways you can help](https://blacklivesmatters.carrd.co/)
@@ -49,6 +50,7 @@ The goal here is to spread _information_ that will be helpful.
   - [Equal Justice Initiative](https://eji.org/)
   - [American Civil Liberties Union](https://www.aclu.org/)
   - [Ukranian Humanitarian Aid](http://help.gov.ua) A Ukraine goverment humanitarian aid portal, to support the efforts of the Ukrainian people. Slava Ukraini.
+  - [American National Network of Abortion Funds](https://abortionfunds.org/) Abortions are a vital resource for shes, hes, and theys across the country.
 
 
 ### _Notes_
