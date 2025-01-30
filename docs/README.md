@@ -10,7 +10,8 @@ The goal here is to spread _information_ that will be helpful.
   - [World Health Organization](https://www.who.int/)
   - [CIA's Guide to sabotaging Facist Governments](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf) 
 
-## Non-profit Resources
+## Non-profit Resources 
+  - [Trans Lifeline.org](https://translifeline.org/) A hotline for the trans community by the trans comunity. Also provides microgrants for non-profits offering direct emotional, and financial support to trans people in crisis.
   - [Trans Journalists Association](https://www.transjournalists.org) Is a group that specializes in nuanced coverage of trans issues and communities in the media and supports gender-expansive journalists
   - [GI Rights Hotline](https://girightshotline.org/) A resource for Military personel. If you are being ordered to violate the Constitutional rights of US citizens then this is the website for the GI Rights Hotline. [1-877-447-4487](tel:1-877-447-4487)
   - [211.org](http://www.211.org/) A hotline for assistance for Disasters, Crisis and emergencies, Essential Needs and more.
@@ -25,6 +26,10 @@ The goal here is to spread _information_ that will be helpful.
   - [Feeding America](https://www.feedingamerica.org/find-your-local-foodbank) A nationwide network of foodbanks.
   - [United Help Ukraine](https://unitedhelpukraine.org/) Help provide medical aid and humanitarian relief to the brave Ukrainians defending themselves! Stand with the people of Ukraine. 🇺🇦
   - [The Trevor Project](https://www.thetrevorproject.org/) An organization whose goal is to end suicide among lesbian, gay, bisexual, transgender, queer & questioning young people.
+  - [Midwest Access Coalition](https://www.midwestaccesscoalition.org/) An organization fighting for save, free, legal abortions wherever people live.
+  - [Everytown for Gun Safety](https://www.everytown.org/) An organization dedicated to gun violence prevention in America
+  - [Human Rights Center](https://www.hrc.org/donate)
+  - [PEN America](https://pen.org/) an organization that fights for the American right of Freedom of Expression and speech.
 
 ## Related informational sources
   - [Black Lives Matter: Ways you can help](https://blacklivesmatters.carrd.co/)
@@ -45,19 +50,16 @@ The goal here is to spread _information_ that will be helpful.
   - [Know your rights during an ICE encounter: A guide for immigrants -- Center for Human Rights and Constitutional Law](https://www.centerforhumanrights.org/post/know-your-rights-during-an-ice-encounter-a-guide-for-immigrants)
   
 ## For those with the ability to donate
-  - [Bail funds for Protesters](https://bailfunds.github.io/) - A collection of community resources for protestors around the United States.
   - [NAACP LDF](https://www.naacpldf.org/)
   - [NAACP](https://www.naacp.org/)
   - [Feeding America Donations](https://secure.feedingamerica.org/site/Donation2?s_subsrc=https://crisis.tools)
-  - [National Bail Out](https://secure.actblue.com/donate/bmbo-covid19)
-  - [The Movement for Black lives](https://secure.actblue.com/donate/movement-4-black-lives-1)
   - [Campaign Zero](https://www.joincampaignzero.org/)
   - [Equal Justice Initiative](https://eji.org/)
-  - [American Civil Liberties Union](https://www.aclu.org/)
   - [Ukranian Humanitarian Aid](http://help.gov.ua) A Ukraine goverment humanitarian aid portal, to support the efforts of the Ukrainian people. Slava Ukraini.
   - [American National Network of Abortion Funds](https://abortionfunds.org/) Abortions are a vital resource for shes, hes, and theys across the country.
-  - [Trans Lifeline.org](https://translifeline.org/donate/) A hotline for the trans community by the trans comunity. Also provides microgrants for non-profits offering direct emotional, and financial support to trans people in crisis.
-  - [ACLU Donations](https://action.aclu.org/give/now)
+  - [ACLU Drag Defense Fund](https://action.aclu.org/give/support-drag-defense-fund)
+  - [Transgender Law Center](https://transgenderlawcenter.org/donate/)
+  - [Climate Science Legal Defense Fund](https://www.csldf.org/)
 
 
 ### _Notes_
