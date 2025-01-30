@@ -5,12 +5,13 @@ The goal here is to spread _information_ that will be helpful.
 # Resources
 ## Government Resources 
   - [FEMA](https://www.fema.gov/) A government agency designed to help people before, during, and after disasters.
-  - [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/find-help/national-helpline) A government agency for helping individuals and families facing mental and/or substance use disorders
   - [Center for Disease Control and Prevention (CDC)](https://emergency.cdc.gov/) The CDC put together an "Emergency Preparedness and Response" section to help share important information during a disease related crisis. 
   - [Ready.gov](https://ready.gov) A US Government website for emergency and disaster preparedness.
   - [World Health Organization](https://www.who.int/)
-  
+  - [CIA's Guide to sabotaging Facist Governments](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf) 
+
 ## Non-profit Resources
+  - [Trans Journalists Association](https://www.transjournalists.org) Is a group that specializes in nuanced coverage of trans issues and communities in the media and supports gender-expansive journalists
   - [GI Rights Hotline](https://girightshotline.org/) A resource for Military personel. If you are being ordered to violate the Constitutional rights of US citizens then this is the website for the GI Rights Hotline. [1-877-447-4487](tel:1-877-447-4487)
   - [211.org](http://www.211.org/) A hotline for assistance for Disasters, Crisis and emergencies, Essential Needs and more.
   - [United Way World-wide](https://www.unitedway.org/find-your-united-way) A multipurpose non-profit organization that can help with financial stability, education, health, and more.
@@ -23,9 +24,11 @@ The goal here is to spread _information_ that will be helpful.
   - [Tenant Resource Center](https://www.tenantresourcecenter.org/know_your_rights#disasters) This resource center is primarly focused on Dane country in Wisconson, but has some valuable information for tenants during disasters, and just in general.
   - [Feeding America](https://www.feedingamerica.org/find-your-local-foodbank) A nationwide network of foodbanks.
   - [United Help Ukraine](https://unitedhelpukraine.org/) Help provide medical aid and humanitarian relief to the brave Ukrainians defending themselves! Stand with the people of Ukraine. 🇺🇦
-  
+  - [The Trevor Project](https://www.thetrevorproject.org/) An organization whose goal is to end suicide among lesbian, gay, bisexual, transgender, queer & questioning young people.
+
 ## Related informational sources
   - [Black Lives Matter: Ways you can help](https://blacklivesmatters.carrd.co/)
+  - [Americans For Prosperity Foundation](https://americansforprosperityfoundation.org/)
 
 ## Related resources for specific events.
   - [What to do after a house fire - Statefarm](https://www.statefarm.com/simple-insights/residence/what-to-do-after-a-house-fire)
@@ -38,6 +41,8 @@ The goal here is to spread _information_ that will be helpful.
   - [What to do during a natural disaster, nuclear war, terrorism, or mass outage - Ready.gov](https://www.ready.gov/be-informed)
   - [What to do if someone has been shot by a firearm - VeryWellHealth](https://www.verywellhealth.com/how-to-treat-a-gunshot-wound-1298915)
   - [What to do if someone has been stabbed - OnelineFirstAid](https://onlinefirstaid.com/stabbings-victim/)
+  - [What to do if ICE knocks on your door (ICE Raiding workplaces, ICE Auditing I-9 documents) - Fox Rothschild](https://www.foxrothschild.com/publications/what-to-do-if-ice-knocks-on-your-door)
+  - [Know your rights during an ICE encounter: A guide for immigrants -- Center for Human Rights and Constitutional Law](https://www.centerforhumanrights.org/post/know-your-rights-during-an-ice-encounter-a-guide-for-immigrants)
   
 ## For those with the ability to donate
   - [Bail funds for Protesters](https://bailfunds.github.io/) - A collection of community resources for protestors around the United States.
@@ -51,6 +56,8 @@ The goal here is to spread _information_ that will be helpful.
   - [American Civil Liberties Union](https://www.aclu.org/)
   - [Ukranian Humanitarian Aid](http://help.gov.ua) A Ukraine goverment humanitarian aid portal, to support the efforts of the Ukrainian people. Slava Ukraini.
   - [American National Network of Abortion Funds](https://abortionfunds.org/) Abortions are a vital resource for shes, hes, and theys across the country.
+  - [Trans Lifeline.org](https://translifeline.org/donate/) A hotline for the trans community by the trans comunity. Also provides microgrants for non-profits offering direct emotional, and financial support to trans people in crisis.
+  - [ACLU Donations](https://action.aclu.org/give/now)
 
 
 ### _Notes_
